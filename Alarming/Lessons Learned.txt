@@ -1,0 +1,23 @@
+The following is a one to two page report, summarizing project experience, lessons learned, successes and shortcomings of the completed project, and how I would modify my original proposal in the light of hindsight. The report will include a "credits" section, acknowledging any assistance or resources used for my project.
+
+In my first project for this class, I decided to undertake something I had always been meaning to investigate but had never tried.  My project, as you read in the proposal, was to create a docklet for an application that I use every day, Objectdock.
+
+My project experience, overall, was less than satisfactory.  The majority of the difficulty came from the fact that the docklet has to work within Objectdock.  This means that I, as a programmer, was quite limited in what I could and could not do.  This problem is eradicated for future projects of this nature, but it proved to be a steep learning curve for this project.
+
+One of the major problems came in the way of data types.  I had originally wanted to implement a class for my alarm.  This proved impossible given the setup between the docklet and the dock.  This in turn made my previously realized UML class diagram useless.  It was a frustrating step backwards.
+
+I had also never before worked with dialog boxes or messages in C++.  This involved a complex combination of listening for messages and acting on them.  There also tended to be problems when I would add elements to my dialog box.  Some of these issues I fashioned workarounds for, but I have still not managed to figure out a solution.
+
+The greatest lesson I learned from this project is to learn early on what you are getting involved with.  I realize that a majority of software engineering projects are going to involve the engineers having to learn a completely new system or language or environment, but it really is paramount that you learn as much and play as much in what you don't understand as much as you can.
+
+The shortcomings of this project are based solely in my ignorance of the environment.  I did my best to preserve good programming practices, but the project took so long that I soon just wanted to get it done.  The code isn't very well documented or optimized.  The docklet isn't very intuitive or user friendly.  All-in-all, I felt like there were a lot of things I could have done to make it a quality project, but I simply wanted to get it done as soon as I could.
+
+The major success of the project is that it does work as an alarm.  I do use it for my pizzas.  I'm not sure how well the reoccurrence features work, as I hardly cook a pizza at the same exact time every day.  I feel that the focus of this docklet was for simple things like a pizza timer or an egg timer or such.  It could be used, perhaps, to wake a person up if need be, but I doubt anyone would use it for such.
+
+If I could start over, I would have done a docklet before this one, just to learn what it's like.  That was the toughest part.  Another large factor in the delay of this project was the events in my personal life.  Of course, had I known that those personal events were going to occur, I would not have tried something so challenging.
+
+To sum it up, in a software engineering project, ignorance is not bliss.  I am very glad that this project is done with so I can move on.
+Credits
+=======
+
+I relied heavily upon the Objectdock Software Development Kit, or SDK.  The link to those files is in my project proposal.  The SDK comes complete with other sample projects, such as the Animation docklet and the Weather docklet.  These two sample projects were very instrumental in showing me how to do it as well as what to do.

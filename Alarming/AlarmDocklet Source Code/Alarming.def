@@ -1,0 +1,10 @@
+EXPORTS
+	OnProcessMessage
+	OnLeftButtonClick
+	OnRightButtonClick
+	OnGetInformation
+	OnCreate
+	OnSave
+	OnDestroy
+	OnConfigure
+

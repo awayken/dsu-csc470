@@ -1,0 +1,38 @@
+3 parts - Installing the docklet, Using the docklet, Removing the docklet.
+
+Installing the docket.
+
+You will get a zip file.
+The file is Alarming.zip.  This has all the files necessary for installing the docklet, plus files for compiling the docklet yourself, using Visual Studio .NET.
+
+[img: 01_zip_file_contents.bmp]
+
+make sure you extract the Alarming folder into the Objectdock "docklets" folder.  Then you're ready.
+
+Launch your dock.  It might look something like this.
+
+[img: 02_docklet_prior.bmp]
+
+You can right click the docklet, go to Add >, and click Alarming! Docklet.  An alternative way is to right click, go to Dock Settings..., click the Docklets tab, and then, after selecting the Alarming! Docklet, click the "Add this Docklet to Dock" button.  Either way, it'll look like this.
+
+[img: 03_docklet_after.bmp]
+
+Click the docklet to configure it.
+
+[img: 04_configure.bmp]
+
+Then set it up as such.
+
+[img: 05_data_filled.bmp]
+
+If you click it again you get this dialog.
+
+[img: 06_cancel.bmp]
+
+right click and get these options.
+
+when the alarm goes off it looks like this.
+
+[img: 07_alarm_notified.bmp]
+
+to delete the docklet you just drag it off.

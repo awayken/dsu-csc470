@@ -1,0 +1,10 @@
+How to install this docklet.
+
+Simply extract the folder entitled "Alarming" into your Objectdock Docklets folder.
+
+The other folder contains the source code free for you to modify and pass on as you like.
+
+Enjoy,
+
+Miles Rausch
+http://awayken.com

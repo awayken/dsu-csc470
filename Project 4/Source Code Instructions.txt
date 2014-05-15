@@ -1,0 +1,53 @@
+Hash Tables
+The Next Silver Bullet
+by
+jonathan beck, miles rausch, 
+mike reiprich, grant vanderhule
+& jonathan liedtke
+
+csc470 software engineering 
+fall 2004
+
+================================
+
+The folders in this zip file reflect the two part step to
+utilizing this hash table code sample.
+
+One folder is called  "hashmake".  The code included in this
+project takes a txt file, included, called "hash.txt" and encodes
+it into a hash table.  The hash table is stored in a file called
+"hash.dat".
+
+The other folder, called "hashread", takes the "hash.dat" file
+created in the above project and allows you to access that
+data.  When the project is compiled and run, you are prompted
+to enter in a number which will return the hash value at that
+location.
+
+================================
+
+The code included in both folders has previously been compiled
+using Visual Studio .NET.  If you have Visual Studio .NET, then
+you can open the project by running the solution file (.sln).
+A new project would most likely have to be set up to get this
+code sample to work for other compilers.
+
+================================
+
+The code does a good job of demonstrating, through nicely
+chunked code fragments, how one could implement a program to
+create a hash table based on some data, and how one could
+then retreive that data using the benefits of hash tables.
+
+I think that a proper test of a hash table implementation
+should include a large data set, one where the given key
+would allow the fewest collisions.  To best way to measure
+the advantages of the hash table would be to demonstrate it
+along side some other data types and perform searches and
+retrievals against them in time tests and interation tests.
+
+Or purposes for this code, however, is to vividly demonstrate
+the how, leaving the testing presumably to the students to
+discover for themselves.  The code does a great job of
+chopping a complex implementation into easy-to-handle parts.
+It should be great for our purposes.
